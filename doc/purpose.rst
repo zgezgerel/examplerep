@@ -3,7 +3,7 @@
 Purpose
 =======
 
-Write me ...
+Some blah blah blaaaah
 
 
 Zipf's law
